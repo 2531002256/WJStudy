@@ -4,7 +4,7 @@ vue+springboot 前后端分离项目设计
 ## 20240912记录：
 ### 解决前端登录跳转问题
 
-#### 修改 wj-vue\src\main.js
+#### 修改 wj-vue\src\main.js文件
 
 原：
 

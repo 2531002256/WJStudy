@@ -49,7 +49,6 @@
 
 <script>
 import ImgUpload from './ImgUpload'
-
 export default {
   name: 'EditForm',
   components: {ImgUpload},
@@ -106,6 +105,7 @@ export default {
     uploadImg () {
       this.form.cover = this.$refs.ImgUpload.url
     }
+
   }
 }
 </script>
